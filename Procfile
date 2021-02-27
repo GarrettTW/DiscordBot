@@ -1,0 +1,1 @@
+web: python buzzcup-linebot.py
